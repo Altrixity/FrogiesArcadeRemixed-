@@ -1,0 +1,21 @@
+{ 
+
+  "name": "Frogie's Arcade 2", 
+
+  "short_name": "Frogie's Arcade 2", 
+
+  "start_url": "https://2.readinghelp.tk", 
+
+  "display": "standalone", 
+
+  "icons": [{ 
+
+    "src": "images/logo.png", 
+
+    "sizes": "512x512", 
+
+    "type": "image/png" 
+
+  }] 
+
+}
